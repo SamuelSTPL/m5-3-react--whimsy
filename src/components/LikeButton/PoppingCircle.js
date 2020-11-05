@@ -28,6 +28,5 @@ const Wrapper = styled.div`
   display: block;
   border-radius: 50%;
   animation: ${opacity} 500ms ease-in forwards,
-    ${scale} 300ms cubic-bezier(0.44, 0.11, 0.93, 0.72);
-  /* display: none; */
+    ${scale} 300ms cubic-bezier(0.5, 0.2, 0.9, 0.7);
 `;
